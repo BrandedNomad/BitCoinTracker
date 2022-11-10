@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "electron": "^9.0.0",
+    "electron": "^18.3.7",
     "electron-userland": "0.0.1",
     "remote": "^0.2.6"
   },
